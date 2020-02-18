@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="register_here">Register Here</string>
+    <string name="not_registered">Not Registered?</string>
+    <string name="logo_image">LogoImage</string>
+    <string name="register">Register</string>
+    <string name="have_an_account">Have an Account?</string>
+    <string name="confirm_password">Confirm Password</string>
+
+</resources>
